@@ -12,9 +12,11 @@ ruby baidu.rb
 
 中文用例如下:
 
+```
   打开http://www.baidu.com
   在文本框(id: 'kw')中输入watir-webdriver
   点击百度一下按钮(id: 'su')
+```
 
 转换后效果:
 
